@@ -1,0 +1,14 @@
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\CityService\bin\Release\netcoreapp2.2\CityService.deps.json
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\CityService\bin\Release\netcoreapp2.2\CityService.runtimeconfig.json
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\CityService\bin\Release\netcoreapp2.2\CityService.runtimeconfig.dev.json
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\CityService\bin\Release\netcoreapp2.2\CityService.dll
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\CityService\bin\Release\netcoreapp2.2\CityService.pdb
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\CityService\bin\Release\netcoreapp2.2\SharedArea.dll
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\CityService\bin\Release\netcoreapp2.2\SharedArea.pdb
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\CityService\obj\Release\netcoreapp2.2\CityService.csprojAssemblyReference.cache
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\CityService\obj\Release\netcoreapp2.2\CityService.csproj.CoreCompileInputs.cache
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\CityService\obj\Release\netcoreapp2.2\CityService.AssemblyInfoInputs.cache
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\CityService\obj\Release\netcoreapp2.2\CityService.AssemblyInfo.cs
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\CityService\obj\Release\netcoreapp2.2\CityService.csproj.CopyComplete
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\CityService\obj\Release\netcoreapp2.2\CityService.dll
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\CityService\obj\Release\netcoreapp2.2\CityService.pdb

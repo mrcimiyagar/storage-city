@@ -1,0 +1,67 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\My Documents\\Projects\\Dotnet\\StorageCityMicroServicesV1\\SharedArea\\SharedArea.csproj",
+    "projectName": "SharedArea",
+    "projectPath": "D:\\My Documents\\Projects\\Dotnet\\StorageCityMicroServicesV1\\SharedArea\\SharedArea.csproj",
+    "outputPath": "D:\\My Documents\\Projects\\Dotnet\\StorageCityMicroServicesV1\\SharedArea\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Bugsnag": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "MassTransit": {
+          "target": "Package",
+          "version": "[5.3.2, )"
+        },
+        "MassTransit.RabbitMQ": {
+          "target": "Package",
+          "version": "[5.3.2, )"
+        },
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "MongoDB.Driver": {
+          "target": "Package",
+          "version": "[2.7.3, )"
+        },
+        "Npgsql.EntityFrameworkCore.PostgreSQL": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

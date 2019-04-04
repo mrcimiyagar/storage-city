@@ -1,0 +1,14 @@
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\PacketRouter\bin\Release\netcoreapp2.2\PacketRouter.deps.json
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\PacketRouter\bin\Release\netcoreapp2.2\PacketRouter.runtimeconfig.json
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\PacketRouter\bin\Release\netcoreapp2.2\PacketRouter.runtimeconfig.dev.json
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\PacketRouter\bin\Release\netcoreapp2.2\PacketRouter.dll
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\PacketRouter\bin\Release\netcoreapp2.2\PacketRouter.pdb
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\PacketRouter\bin\Release\netcoreapp2.2\SharedArea.dll
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\PacketRouter\bin\Release\netcoreapp2.2\SharedArea.pdb
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\PacketRouter\obj\Release\netcoreapp2.2\PacketRouter.csprojAssemblyReference.cache
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\PacketRouter\obj\Release\netcoreapp2.2\PacketRouter.csproj.CoreCompileInputs.cache
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\PacketRouter\obj\Release\netcoreapp2.2\PacketRouter.AssemblyInfoInputs.cache
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\PacketRouter\obj\Release\netcoreapp2.2\PacketRouter.AssemblyInfo.cs
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\PacketRouter\obj\Release\netcoreapp2.2\PacketRouter.csproj.CopyComplete
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\PacketRouter\obj\Release\netcoreapp2.2\PacketRouter.dll
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\PacketRouter\obj\Release\netcoreapp2.2\PacketRouter.pdb

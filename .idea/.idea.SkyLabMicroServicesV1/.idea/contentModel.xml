@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Keyhan\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_SkyLabMicroServicesV1.-2105188478.00" t="ExcludeRecursive" />
+    <e p="D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1" t="IncludeFlat">
+      <e p="ApiGateway" t="IncludeRecursive">
+        <e p="ApiGateway.csproj" t="IncludeRecursive" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Consumers" t="Include">
+          <e p="ApiGatewayConsumer.cs" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="AppController.cs" t="Include" />
+          <e p="AuthController.cs" t="Include" />
+          <e p="BotController.cs" t="Include" />
+          <e p="ComplexController.cs" t="Include" />
+          <e p="ContactController.cs" t="Include" />
+          <e p="FileController.cs" t="Include" />
+          <e p="HomeController.cs" t="Include" />
+          <e p="InviteController.cs" t="Include" />
+          <e p="MessageController.cs" t="Include" />
+          <e p="ModuleController.cs" t="Include" />
+          <e p="NotifController.cs" t="Include" />
+          <e p="PulseController.cs" t="Include" />
+          <e p="RoomController.cs" t="Include" />
+          <e p="UserController.cs" t="Include" />
+        </e>
+        <e p="DbContexts" t="Include">
+          <e p="DatabaseContext.cs" t="Include" />
+          <e p="MongoLayer.cs" t="Include" />
+          <e p="StreamRepo.cs" t="Include" />
+        </e>
+        <e p="Hubs" t="Include">
+          <e p="NotificationsHub.cs" t="Include" />
+        </e>
+        <e p="Middleware" t="Include">
+          <e p="LoggerMiddleware.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Forms" t="Include">
+            <e p="AudioUploadForm.cs" t="Include" />
+            <e p="PhotoUploadForm.cs" t="Include" />
+            <e p="TakeFileDSF.cs" t="Include" />
+            <e p="VideoUploadForm.cs" t="Include" />
+            <e p="WriteToFileForm.cs" t="Include" />
+          </e>
+          <e p="NotifierStreamResult.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="ApiGateway.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Utils" t="Include">
+          <e p="DisableFormValueModelBindingAttribute.cs" t="Include" />
+          <e p="MultipartRequestHelper.cs" t="Include" />
+          <e p="Pusher.cs" t="Include" />
+          <e p="Security.cs" t="Include" />
+          <e p="VersionHandler.cs" t="Include" />
+        </e>
+      </e>
+      <e p="CityService" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CityConsumer.cs" t="Include" />
+        <e p="CityService.csproj" t="IncludeRecursive" />
+        <e p="DatabaseContext.cs" t="Include" />
+        <e p="NotifConsumer.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="CityService.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Security.cs" t="Include" />
+      </e>
+      <e p="MessengerService" t="IncludeRecursive">
+        <e p="Aseman" t="Include">
+          <e p="1" t="Include" />
+          <e p="2" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DatabaseContext.cs" t="Include" />
+        <e p="MessengerConsumer.cs" t="Include" />
+        <e p="MessengerService.csproj" t="IncludeRecursive" />
+        <e p="NotifConsumer.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="MessengerService.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Security.cs" t="Include" />
+        <e p="SqliteDatabaseContext.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PacketRouter" t="IncludeRecursive">
+        <e p="ApiGatewayRequestConsumer.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DatabaseContext.cs" t="Include" />
+        <e p="LockRepo.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="PacketRouter.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PacketRouter.csproj" t="IncludeRecursive" />
+        <e p="PacketRouterConsumer.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="SharedArea" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Commands" t="Include">
+          <e p="App" t="Include">
+            <e p="CreateAppRequest.cs" t="Include" />
+            <e p="CreateAppResponse.cs" t="Include" />
+          </e>
+          <e p="Auth" t="Include">
+            <e p="DeleteAccountRequest.cs" t="Include" />
+            <e p="DeleteAccountResponse.cs" t="Include" />
+            <e p="LoginRequest.cs" t="Include" />
+            <e p="LoginResponse.cs" t="Include" />
+            <e p="LogoutRequest.cs" t="Include" />
+            <e p="LogoutResponse.cs" t="Include" />
+            <e p="RegisterRequest.cs" t="Include" />
+            <e p="RegisterResponse.cs" t="Include" />
+            <e p="VerifyRequest.cs" t="Include" />
+            <e p="VerifyResponse.cs" t="Include" />
+          </e>
+          <e p="Bot" t="Include">
+            <e p="AddBotToRoomRequest.cs" t="Include" />
+            <e p="AddBotToRoomResponse.cs" t="Include" />
+            <e p="CreateBotRequest.cs" t="Include" />
+            <e p="CreateBotResponse.cs" t="Include" />
+            <e p="GetBotRequest.cs" t="Include" />
+            <e p="GetBotResponse.cs" t="Include" />
+            <e p="GetBotsRequest.cs" t="Include" />
+            <e p="GetBotsResponse.cs" t="Include" />
+            <e p="GetBotStoreContentRequest.cs" t="Include" />
+            <e p="GetBotStoreContentResponse.cs" t="Include" />
+            <e p="GetCreatedBotsRequest.cs" t="Include" />
+            <e p="GetCreatedBotsResponse.cs" t="Include" />
+            <e p="GetSubscribedBotsRequest.cs" t="Include" />
+            <e p="GetSubscribedBotsResponse.cs" t="Include" />
+            <e p="GetWorkershipsRequest.cs" t="Include" />
+            <e p="GetWorkershipsResponse.cs" t="Include" />
+            <e p="RemoveBotFromRoomRequest.cs" t="Include" />
+            <e p="RemoveBotFromRoomResponse.cs" t="Include" />
+            <e p="SearchBotsRequest.cs" t="Include" />
+            <e p="SearchBotsResponse.cs" t="Include" />
+            <e p="SubscribeBotRequest.cs" t="Include" />
+            <e p="SubscribeBotResponse.cs" t="Include" />
+            <e p="UpdateBotProfileRequest.cs" t="Include" />
+            <e p="UpdateBotProfileResponse.cs" t="Include" />
+            <e p="UpdateWorkershipRequest.cs" t="Include" />
+            <e p="UpdateWorkershipResponse.cs" t="Include" />
+          </e>
+          <e p="Complex" t="Include">
+            <e p="BotGetWorkershipsRequest.cs" t="Include" />
+            <e p="BotGetWorkershipsResponse.cs" t="Include" />
+            <e p="CreateComplexRequest.cs" t="Include" />
+            <e p="CreateComplexResponse.cs" t="Include" />
+            <e p="DeleteComplexRequest.cs" t="Include" />
+            <e p="DeleteComplexResponse.cs" t="Include" />
+            <e p="GetComplexAccessesRequest.cs" t="Include" />
+            <e p="GetComplexAccessesResponse.cs" t="Include" />
+            <e p="GetComplexByIdRequest.cs" t="Include" />
+            <e p="GetComplexByIdResponse.cs" t="Include" />
+            <e p="GetComplexesRequest.cs" t="Include" />
+            <e p="GetComplexesResponse.cs" t="Include" />
+            <e p="SearchComplexesRequest.cs" t="Include" />
+            <e p="SearchComplexesResponse.cs" t="Include" />
+            <e p="UpdateComplexProfileRequest.cs" t="Include" />
+            <e p="UpdateComplexProfileResponse.cs" t="Include" />
+            <e p="UpdateMemberAccessRequest.cs" t="Include" />
+            <e p="UpdateMemberAccessResponse.cs" t="Include" />
+          </e>
+          <e p="Contact" t="Include">
+            <e p="CreateContactRequest.cs" t="Include" />
+            <e p="CreateContactResponse.cs" t="Include" />
+            <e p="GetContactsRequest.cs" t="Include" />
+            <e p="GetContactsResponse.cs" t="Include" />
+          </e>
+          <e p="File" t="Include">
+            <e p="BotAppendTextToTxtFileRequest.cs" t="Include" />
+            <e p="BotAppendTextToTxtFileResponse.cs" t="Include" />
+            <e p="BotExecuteMongoComOnMongoFileRequest.cs" t="Include" />
+            <e p="BotExecuteMongoComOnMongoFileResponse.cs" t="Include" />
+            <e p="BotExecuteSqlOnSqlFileRequest.cs" t="Include" />
+            <e p="BotExecuteSqlOnSqlFileResponse.cs" t="Include" />
+            <e p="CreateDocumentRequest.cs" t="Include" />
+            <e p="CreateDocumentResponse.cs" t="Include" />
+            <e p="DownloadBotAvatarRequest.cs" t="Include" />
+            <e p="DownloadBotAvatarResponse.cs" t="Include" />
+            <e p="DownloadComplexAvatarRequest.cs" t="Include" />
+            <e p="DownloadComplexAvatarResponse.cs" t="Include" />
+            <e p="DownloadFileRequest.cs" t="Include" />
+            <e p="DownloadFileResponse.cs" t="Include" />
+            <e p="DownloadRoomAvatarRequest.cs" t="Include" />
+            <e p="DownloadRoomAvatarResponse.cs" t="Include" />
+            <e p="DownloadUserAvatarRequest.cs" t="Include" />
+            <e p="DownloadUserAvatarResponse.cs" t="Include" />
+            <e p="GetFileSizeRequest.cs" t="Include" />
+            <e p="GetFileSizeResponse.cs" t="Include" />
+            <e p="UploadAudioRequest.cs" t="Include" />
+            <e p="UploadAudioResponse.cs" t="Include" />
+            <e p="UploadPhotoRequest.cs" t="Include" />
+            <e p="UploadPhotoResponse.cs" t="Include" />
+            <e p="UploadVideoRequest.cs" t="Include" />
+            <e p="UploadVideoResponse.cs" t="Include" />
+            <e p="WriteToFileRequest.cs" t="Include" />
+            <e p="WriteToFileResponse.cs" t="Include" />
+          </e>
+          <e p="Internal" t="Include">
+            <e p="Notifications" t="Include">
+              <e p="AccountCreatedNotif.cs" t="Include" />
+              <e p="AccountCreatedNotifResponse.cs" t="Include" />
+              <e p="AccountCreatedWithBackRequest.cs" t="Include" />
+              <e p="AccountDeletedNotif.cs" t="Include" />
+              <e p="AppCreatedWithBackRequest.cs" t="Include" />
+              <e p="AppCreatedWithBackResponse.cs" t="Include" />
+              <e p="AudioCreatedNotif.cs" t="Include" />
+              <e p="AudioCreatedNotifResponse.cs" t="Include" />
+              <e p="BotCreatedNotif.cs" t="Include" />
+              <e p="BotCreatedNotifResponse.cs" t="Include" />
+              <e p="BotProfileUpdatedNotif.cs" t="Include" />
+              <e p="BotProfileUpdatedNotifResponse.cs" t="Include" />
+              <e p="BotSubscribedNotif.cs" t="Include" />
+              <e p="BotSubscribedNotifResponse.cs" t="Include" />
+              <e p="ComplexCreatedNotif.cs" t="Include" />
+              <e p="ComplexCreatedNotifResponse.cs" t="Include" />
+              <e p="ComplexDeletionNotif.cs" t="Include" />
+              <e p="ComplexDeletionNotifResponse.cs" t="Include" />
+              <e p="ComplexProfileUpdatedNotif.cs" t="Include" />
+              <e p="ComplexProfileUpdatedNotifResponse.cs" t="Include" />
+              <e p="ContactCreatedNotif.cs" t="Include" />
+              <e p="ContactCreatedNotifResponse.cs" t="Include" />
+              <e p="DeleteSessionsNotif.cs" t="Include" />
+              <e p="EntitiesVersionUpdatedNotif.cs" t="Include" />
+              <e p="InviteAcceptedNotif.cs" t="Include" />
+              <e p="InviteAcceptedNotifResponse.cs" t="Include" />
+              <e p="InviteCancelledNotif.cs" t="Include" />
+              <e p="InviteCancelledNotifResponse.cs" t="Include" />
+              <e p="InviteCreatedNotif.cs" t="Include" />
+              <e p="InviteCreatedNotifResponse.cs" t="Include" />
+              <e p="InviteIgnoredNotif.cs" t="Include" />
+              <e p="InviteIgnoredNotifResponse.cs" t="Include" />
+              <e p="LogoutNotif.cs" t="Include" />
+              <e p="MemberAccessUpdatedNotif.cs" t="Include" />
+              <e p="MembershipCreatedNotif.cs" t="Include" />
+              <e p="MembershipCreatedNotifResponse.cs" t="Include" />
+              <e p="PhotoCreatedNotif.cs" t="Include" />
+              <e p="PhotoCreatedNotifResponse.cs" t="Include" />
+              <e p="RoomCreatedNotif.cs" t="Include" />
+              <e p="RoomCreatedNotifResponse.cs" t="Include" />
+              <e p="RoomCreatedSpecificNotif.cs" t="Include" />
+              <e p="RoomDeletionNotif.cs" t="Include" />
+              <e p="RoomDeletionNotifResponse.cs" t="Include" />
+              <e p="RoomProfileUpdatedNotif.cs" t="Include" />
+              <e p="RoomProfileUpdatedNotifResponse.cs" t="Include" />
+              <e p="RunPusherNotif.cs" t="Include" />
+              <e p="RunPusherNotifResponse.cs" t="Include" />
+              <e p="SessionCreatedNotif.cs" t="Include" />
+              <e p="SessionCreatedNotifResponse.cs" t="Include" />
+              <e p="SessionUpdatedNotif.cs" t="Include" />
+              <e p="SessionUpdatedNotifResponse.cs" t="Include" />
+              <e p="UserCreatedNotif.cs" t="Include" />
+              <e p="UserCreatedNotifResponse.cs" t="Include" />
+              <e p="UserProfileUpdatedNotif.cs" t="Include" />
+              <e p="UserProfileUpdatedNotifResponse.cs" t="Include" />
+              <e p="VideoCreatedNotif.cs" t="Include" />
+              <e p="VideoCreatedNotifResponse.cs" t="Include" />
+              <e p="WorkershipCreatedNotif.cs" t="Include" />
+              <e p="WorkershipCreatedNotifResponse.cs" t="Include" />
+              <e p="WorkershipDeletedNotif.cs" t="Include" />
+              <e p="WorkershipDeletedNotifResponse.cs" t="Include" />
+              <e p="WorkershipUpdatedNotif.cs" t="Include" />
+              <e p="WorkershipUpdatedNotifResponse.cs" t="Include" />
+            </e>
+            <e p="Requests" t="Include">
+              <e p="BotCreateDocumentFileRequest.cs" t="Include" />
+              <e p="BotCreatedWithBackRequest.cs" t="Include" />
+              <e p="ComplexCreatedWithBackRequest.cs" t="Include" />
+              <e p="ConsolidateDeleteAccountRequest.cs" t="Include" />
+              <e p="ConsolidateDeleteAccountResponse.cs" t="Include" />
+              <e p="ConsolidateLogoutRequest.cs" t="Include" />
+              <e p="ConsolidateMakeAccountRequest.cs" t="Include" />
+              <e p="ConsolidateSessionRequest.cs" t="Include" />
+              <e p="ConsolidateSessionResponse.cs" t="Include" />
+              <e p="ContactCreatedWithBackRequest.cs" t="Include" />
+              <e p="ContactCreatedWithBackResponse.cs" t="Include" />
+              <e p="CreateAudioRequest.cs" t="Include" />
+              <e p="CreatePhotoRequest.cs" t="Include" />
+              <e p="CreateVideoRequest.cs" t="Include" />
+              <e p="GetComplexWorkershipsRequest.cs" t="Include" />
+              <e p="GetComplexWorkersRequest.cs" t="Include" />
+              <e p="GetModuleServerAddressRequest.cs" t="Include" />
+              <e p="MakeAccountRequest.cs" t="Include" />
+              <e p="ModuleCreatedWithBackRequest.cs" t="Include" />
+              <e p="PutComplexRequest.cs" t="Include" />
+              <e p="PutMembershipRequest.cs" t="Include" />
+              <e p="PutRoomRequest.cs" t="Include" />
+              <e p="PutServiceMessageRequest.cs" t="Include" />
+              <e p="PutSessionRequest.cs" t="Include" />
+              <e p="PutUserRequest.cs" t="Include" />
+              <e p="RoomCreatedWithBackRequest.cs" t="Include" />
+              <e p="UpdateUserSecretRequest.cs" t="Include" />
+            </e>
+            <e p="Responses" t="Include">
+              <e p="AccountCreatedWithBackResponse.cs" t="Include" />
+              <e p="BotCreateDocumentFileResponse.cs" t="Include" />
+              <e p="BotCreatedWithBackResponse.cs" t="Include" />
+              <e p="ComplexCreatedWithBackResponse.cs" t="Include" />
+              <e p="ConsolidateLogoutResponse.cs" t="Include" />
+              <e p="CreateAudioResponse.cs" t="Include" />
+              <e p="CreatePhotoResponse.cs" t="Include" />
+              <e p="CreateVideoResponse.cs" t="Include" />
+              <e p="GetComplexWorkershipsResponse.cs" t="Include" />
+              <e p="GetComplexWorkersResponse.cs" t="Include" />
+              <e p="GetModuleServerAddressResponse.cs" t="Include" />
+              <e p="MakeAccountResponse.cs" t="Include" />
+              <e p="ModuleCreatedWithBackResponse.cs" t="Include" />
+              <e p="PutComplexResponse.cs" t="Include" />
+              <e p="PutMembershipResponse.cs" t="Include" />
+              <e p="PutRoomResponse.cs" t="Include" />
+              <e p="PutServiceMessageResponse.cs" t="Include" />
+              <e p="PutSessionResponse.cs" t="Include" />
+              <e p="PutUserResponse.cs" t="Include" />
+              <e p="RoomCreatedWithBackResponse.cs" t="Include" />
+              <e p="UpdateUserSecretResponse.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Invite" t="Include">
+            <e p="AcceptInviteRequest.cs" t="Include" />
+            <e p="AcceptInviteResponse.cs" t="Include" />
+            <e p="CancelInviteRequest.cs" t="Include" />
+            <e p="CancelInviteResponse.cs" t="Include" />
+            <e p="CreateInviteRequest.cs" t="Include" />
+            <e p="CreateInviteResponse.cs" t="Include" />
+            <e p="GetMyInvitesRequest.cs" t="Include" />
+            <e p="GetMyInvitesResponse.cs" t="Include" />
+            <e p="IgnoreInviteRequest.cs" t="Include" />
+            <e p="IgnoreInviteResponse.cs" t="Include" />
+          </e>
+          <e p="Message" t="Include">
+            <e p="BotCreateFileMessageRequest.cs" t="Include" />
+            <e p="BotCreateFileMessageResponse.cs" t="Include" />
+            <e p="BotCreateTextMessageRequest.cs" t="Include" />
+            <e p="BotCreateTextMessageResponse.cs" t="Include" />
+            <e p="CreateFileMessageRequest.cs" t="Include" />
+            <e p="CreateFileMessageResponse.cs" t="Include" />
+            <e p="CreateTextMessageRequest.cs" t="Include" />
+            <e p="CreateTextMessageResponse.cs" t="Include" />
+            <e p="GetLastActionsRequest.cs" t="Include" />
+            <e p="GetLastActionsResponse.cs" t="Include" />
+            <e p="GetMessageSeenCountRequest.cs" t="Include" />
+            <e p="GetMessageSeenCountResponse.cs" t="Include" />
+            <e p="GetMessagesRequest.cs" t="Include" />
+            <e p="GetMessagesResponse.cs" t="Include" />
+            <e p="NotifyMessageSeenRequest.cs" t="Include" />
+            <e p="NotifyMessageSeenResponse.cs" t="Include" />
+          </e>
+          <e p="Module" t="Include">
+            <e p="BotPermitModuleRequest.cs" t="Include" />
+            <e p="BotPermitModuleResponse.cs" t="Include" />
+            <e p="CreateModuleRequest.cs" t="Include" />
+            <e p="CreateModuleResponse.cs" t="Include" />
+            <e p="RequestModuleRequest.cs" t="Include" />
+            <e p="RequestModuleResponse.cs" t="Include" />
+            <e p="SearchModulesRequest.cs" t="Include" />
+            <e p="SearchModulesResponse.cs" t="Include" />
+            <e p="UpdateModuleProfileRequest.cs" t="Include" />
+            <e p="UpdateModuleProfileResponse.cs" t="Include" />
+          </e>
+          <e p="Notification.cs" t="Include" />
+          <e p="Pulse" t="Include">
+            <e p="AnimateBotViewRequest.cs" t="Include" />
+            <e p="AnimateBotViewResponse.cs" t="Include" />
+            <e p="ClickBotViewRequest.cs" t="Include" />
+            <e p="ClickBotViewResponse.cs" t="Include" />
+            <e p="RequestBotViewRequest.cs" t="Include" />
+            <e p="RequestBotViewResponse.cs" t="Include" />
+            <e p="RunCommandsOnBotViewRequest.cs" t="Include" />
+            <e p="RunCommandsOnBotViewResponse.cs" t="Include" />
+            <e p="SendBotViewRequest.cs" t="Include" />
+            <e p="SendBotViewResponse.cs" t="Include" />
+            <e p="UpdateBotViewRequest.cs" t="Include" />
+            <e p="UpdateBotViewResponse.cs" t="Include" />
+          </e>
+          <e p="Push.cs" t="Include" />
+          <e p="Pushes" t="Include">
+            <e p="AudioMessagePush.cs" t="Include" />
+            <e p="BotAdditionToRoomPush.cs" t="Include" />
+            <e p="BotAnimatedBotViewPush.cs" t="Include" />
+            <e p="BotPropertiesChangedPush.cs" t="Include" />
+            <e p="BotRanCommandsOnBotViewPush.cs" t="Include" />
+            <e p="BotRemovationFromRoomPush.cs" t="Include" />
+            <e p="BotSentBotViewPush.cs" t="Include" />
+            <e p="BotUpdatedBotViewPush.cs" t="Include" />
+            <e p="ComplexDeletionPush.cs" t="Include" />
+            <e p="ContactCreationPush.cs" t="Include" />
+            <e p="InviteAcceptancePush.cs" t="Include" />
+            <e p="InviteCancellationPush.cs" t="Include" />
+            <e p="InviteCreationPush.cs" t="Include" />
+            <e p="InviteIgnoredPush.cs" t="Include" />
+            <e p="MemberAccessUpdatedPush.cs" t="Include" />
+            <e p="MessageSeenPush.cs" t="Include" />
+            <e p="ModulePermissionGrantedPush.cs" t="Include" />
+            <e p="PhotoMessagePush.cs" t="Include" />
+            <e p="RoomDeletionPush.cs" t="Include" />
+            <e p="ServiceMessagePush.cs" t="Include" />
+            <e p="TextMessagePush.cs" t="Include" />
+            <e p="UserClickedBotViewPush.cs" t="Include" />
+            <e p="UserJointComplexPush.cs" t="Include" />
+            <e p="UserRequestedBotViewPush.cs" t="Include" />
+            <e p="VideoMessagePush.cs" t="Include" />
+          </e>
+          <e p="Request.cs" t="Include" />
+          <e p="Response.cs" t="Include" />
+          <e p="Room" t="Include">
+            <e p="CreateRoomRequest.cs" t="Include" />
+            <e p="CreateRoomResponse.cs" t="Include" />
+            <e p="DeleteRoomRequest.cs" t="Include" />
+            <e p="DeleteRoomResponse.cs" t="Include" />
+            <e p="GetRoomByIdRequest.cs" t="Include" />
+            <e p="GetRoomByIdResponse.cs" t="Include" />
+            <e p="GetRoomsRequest.cs" t="Include" />
+            <e p="GetRoomsResponse.cs" t="Include" />
+            <e p="UpdateRoomProfileRequest.cs" t="Include" />
+            <e p="UpdateRoomProfileResponse.cs" t="Include" />
+          </e>
+          <e p="User" t="Include">
+            <e p="GetMeRequest.cs" t="Include" />
+            <e p="GetMeResponse.cs" t="Include" />
+            <e p="GetUserByIdRequest.cs" t="Include" />
+            <e p="GetUserByIdResponse.cs" t="Include" />
+            <e p="SearchUsersRequest.cs" t="Include" />
+            <e p="SearchUsersResponse.cs" t="Include" />
+            <e p="UpdateUserProfileRequest.cs" t="Include" />
+            <e p="UpdateUserProfileResponse.cs" t="Include" />
+          </e>
+        </e>
+        <e p="DbContexts" t="Include">
+          <e p="DatabaseContext.cs" t="Include" />
+        </e>
+        <e p="Entities" t="Include">
+          <e p="App.cs" t="Include" />
+          <e p="Audio.cs" t="Include" />
+          <e p="AudioMessage.cs" t="Include" />
+          <e p="BaseUser.cs" t="Include" />
+          <e p="Bot.cs" t="Include" />
+          <e p="BotCreation.cs" t="Include" />
+          <e p="BotSecret.cs" t="Include" />
+          <e p="BotStoreBanner.cs" t="Include" />
+          <e p="BotStoreBot.cs" t="Include" />
+          <e p="BotStoreHeader.cs" t="Include" />
+          <e p="BotStoreSection.cs" t="Include" />
+          <e p="BotSubscription.cs" t="Include" />
+          <e p="Complex.cs" t="Include" />
+          <e p="ComplexSecret.cs" t="Include" />
+          <e p="Contact.cs" t="Include" />
+          <e p="Document.cs" t="Include" />
+          <e p="File.cs" t="Include" />
+          <e p="FileUsage.cs" t="Include" />
+          <e p="Invite.cs" t="Include" />
+          <e p="MemberAccess.cs" t="Include" />
+          <e p="Membership.cs" t="Include" />
+          <e p="Message.cs" t="Include" />
+          <e p="MessageSeen.cs" t="Include" />
+          <e p="Module.cs" t="Include" />
+          <e p="ModuleCreation.cs" t="Include" />
+          <e p="ModulePermission.cs" t="Include" />
+          <e p="ModuleSecret.cs" t="Include" />
+          <e p="Pending.cs" t="Include" />
+          <e p="Photo.cs" t="Include" />
+          <e p="PhotoMessage.cs" t="Include" />
+          <e p="Room.cs" t="Include" />
+          <e p="ServiceMessage.cs" t="Include" />
+          <e p="Session.cs" t="Include" />
+          <e p="TextMessage.cs" t="Include" />
+          <e p="User.cs" t="Include" />
+          <e p="UserSecret.cs" t="Include" />
+          <e p="Version.cs" t="Include" />
+          <e p="Video.cs" t="Include" />
+          <e p="VideoMessage.cs" t="Include" />
+          <e p="Workership.cs" t="Include" />
+        </e>
+        <e p="Forms" t="Include">
+          <e p="AudioUF.cs" t="Include" />
+          <e p="PhotoUF.cs" t="Include" />
+          <e p="VideoUF.cs" t="Include" />
+        </e>
+        <e p="GlobalVariables.cs" t="Include" />
+        <e p="Middles" t="Include">
+          <e p="ModuleRequest.cs" t="Include" />
+          <e p="ModuleResponse.cs" t="Include" />
+          <e p="Packet.cs" t="Include" />
+          <e p="ReqAuth.cs" t="Include" />
+          <e p="SqlCommand.cs" t="Include" />
+          <e p="SqlResult.cs" t="Include" />
+        </e>
+        <e p="Notifications" t="Include">
+          <e p="AudioMessageNotification.cs" t="Include" />
+          <e p="BotAdditionToRoomNotification.cs" t="Include" />
+          <e p="BotAnimatedBotViewNotification.cs" t="Include" />
+          <e p="BotPropertiesChangedNotification.cs" t="Include" />
+          <e p="BotRanCommandsOnBotViewNotification.cs" t="Include" />
+          <e p="BotRemovationFromRoomNotification.cs" t="Include" />
+          <e p="BotSentBotViewNotification.cs" t="Include" />
+          <e p="BotUpdatedBotViewNotification.cs" t="Include" />
+          <e p="ComplexDeletionNotification.cs" t="Include" />
+          <e p="ContactCreationNotification.cs" t="Include" />
+          <e p="InviteAcceptanceNotification.cs" t="Include" />
+          <e p="InviteCancellationNotification.cs" t="Include" />
+          <e p="InviteCreationNotification.cs" t="Include" />
+          <e p="InviteIgnoranceNotification.cs" t="Include" />
+          <e p="MemberAccessUpdatedNotification.cs" t="Include" />
+          <e p="MessageSeenNotification.cs" t="Include" />
+          <e p="ModulePermissionGrantedNotification.cs" t="Include" />
+          <e p="Notification.cs" t="Include" />
+          <e p="PhotoMessageNotification.cs" t="Include" />
+          <e p="RoomDeletionNotification.cs" t="Include" />
+          <e p="ServiceMessageNotification.cs" t="Include" />
+          <e p="TextMessageNotification.cs" t="Include" />
+          <e p="UserClickedBotViewNotification.cs" t="Include" />
+          <e p="UserJointComplexNotification.cs" t="Include" />
+          <e p="UserRequestedBotViewNotification.cs" t="Include" />
+          <e p="VideoMessageNotification.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="SharedArea.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="SharedArea.csproj" t="IncludeRecursive" />
+        <e p="Transport.cs" t="Include" />
+        <e p="Utils" t="Include">
+          <e p="AuthExtracter.cs" t="Include" />
+          <e p="ConnStringGenerator.cs" t="Include" />
+          <e p="ConsumeObserver.cs" t="Include" />
+          <e p="DatabaseConfig.cs" t="Include" />
+          <e p="EndpointConfigurator.cs" t="Include" />
+          <e p="GlobalConsumer.cs" t="Include" />
+          <e p="JsonSerializer.cs" t="Include" />
+          <e p="Logger.cs" t="Include" />
+          <e p="MessageConverter.cs" t="Include" />
+          <e p="MessageFormatter.cs" t="Include" />
+          <e p="ReceiveObserver.cs" t="Include" />
+          <e p="SendObserver.cs" t="Include" />
+        </e>
+      </e>
+      <e p="SkyLabMicroServicesV1.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\SharedArea\bin\Release\netcoreapp2.2\SharedArea.deps.json
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\SharedArea\bin\Release\netcoreapp2.2\SharedArea.dll
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\SharedArea\bin\Release\netcoreapp2.2\SharedArea.pdb
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\SharedArea\obj\Release\netcoreapp2.2\SharedArea.csprojAssemblyReference.cache
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\SharedArea\obj\Release\netcoreapp2.2\SharedArea.csproj.CoreCompileInputs.cache
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\SharedArea\obj\Release\netcoreapp2.2\SharedArea.AssemblyInfoInputs.cache
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\SharedArea\obj\Release\netcoreapp2.2\SharedArea.AssemblyInfo.cs
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\SharedArea\obj\Release\netcoreapp2.2\SharedArea.dll
+D:\My Documents\Projects\Dotnet\SkyLabMicroServicesV1\SharedArea\obj\Release\netcoreapp2.2\SharedArea.pdb

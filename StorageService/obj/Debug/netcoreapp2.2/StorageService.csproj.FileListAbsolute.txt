@@ -1,0 +1,14 @@
+D:\My Documents\Projects\Dotnet\StorageCityMicroServicesV1\StorageService\bin\Debug\netcoreapp2.2\StorageService.deps.json
+D:\My Documents\Projects\Dotnet\StorageCityMicroServicesV1\StorageService\bin\Debug\netcoreapp2.2\StorageService.runtimeconfig.json
+D:\My Documents\Projects\Dotnet\StorageCityMicroServicesV1\StorageService\bin\Debug\netcoreapp2.2\StorageService.runtimeconfig.dev.json
+D:\My Documents\Projects\Dotnet\StorageCityMicroServicesV1\StorageService\bin\Debug\netcoreapp2.2\StorageService.dll
+D:\My Documents\Projects\Dotnet\StorageCityMicroServicesV1\StorageService\bin\Debug\netcoreapp2.2\StorageService.pdb
+D:\My Documents\Projects\Dotnet\StorageCityMicroServicesV1\StorageService\bin\Debug\netcoreapp2.2\SharedArea.dll
+D:\My Documents\Projects\Dotnet\StorageCityMicroServicesV1\StorageService\bin\Debug\netcoreapp2.2\SharedArea.pdb
+D:\My Documents\Projects\Dotnet\StorageCityMicroServicesV1\StorageService\obj\Debug\netcoreapp2.2\StorageService.csprojAssemblyReference.cache
+D:\My Documents\Projects\Dotnet\StorageCityMicroServicesV1\StorageService\obj\Debug\netcoreapp2.2\StorageService.csproj.CoreCompileInputs.cache
+D:\My Documents\Projects\Dotnet\StorageCityMicroServicesV1\StorageService\obj\Debug\netcoreapp2.2\StorageService.AssemblyInfoInputs.cache
+D:\My Documents\Projects\Dotnet\StorageCityMicroServicesV1\StorageService\obj\Debug\netcoreapp2.2\StorageService.AssemblyInfo.cs
+D:\My Documents\Projects\Dotnet\StorageCityMicroServicesV1\StorageService\obj\Debug\netcoreapp2.2\StorageService.csproj.CopyComplete
+D:\My Documents\Projects\Dotnet\StorageCityMicroServicesV1\StorageService\obj\Debug\netcoreapp2.2\StorageService.dll
+D:\My Documents\Projects\Dotnet\StorageCityMicroServicesV1\StorageService\obj\Debug\netcoreapp2.2\StorageService.pdb
